@@ -1,4 +1,3 @@
 # Free Domain For Everyone
 
-Free and easy to get a free domain within 24 hours
-
+Creating a free high-speed web proxy with your name and information *(yourname).bingle.pw*
