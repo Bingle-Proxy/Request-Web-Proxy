@@ -38,6 +38,7 @@ Creating a free high-speed web proxy **Website** with your name and information 
 * The income from advertising is paid to you (paypal or crypto).
 * The phrase "Made by Bingle Proxy" is removed.
 * Unlimited support and instant execution.
+* Your Site Link on Bingle Proxy Website (www.bingle.pw)
 
 VIP Price: 10 Tether (USDT) yearly. https://t.me/bingle_support
 
