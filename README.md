@@ -5,6 +5,7 @@ Creating a free high-speed web proxy **Website** with your name and information 
 ![info](https://github.com/user-attachments/assets/bb19436f-134f-4ab1-a1ea-6f59098a36a5)
 
 1- **Sub Domain Name:** Any words - max 25 character - except: config, hub, millionux, fast, player, app, proxyduke, v2ray
+example: https://www-millionux.bingle.pw/ - https://www-proxyduke.bingle.pw/ - https://www-fast.bingle.pw/
 
 2- **Display Name:** Any words - max 40 character
 
