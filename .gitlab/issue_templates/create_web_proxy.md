@@ -13,7 +13,7 @@ We use automated scripts to approve requests. Please make sure your GitHub accou
 - [ ] I have starred this repository.
 - [ ] I confirm that I don't have any problem with ADS enabled.
 
-All steps of creating a web proxy and making changes are done on this page
+All steps of creating a web proxy and making changes are done on this repository.
 
 **Your Account Details (Creating a Free high-speed Web Proxy):**
 
