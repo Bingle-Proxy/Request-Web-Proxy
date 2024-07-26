@@ -35,6 +35,7 @@ Creating a free high-speed web proxy with your name and information **(yourname)
 
 * An Android (web) application will be created from your website upon request.
 * If requested, you can change the favicon and the color of the site elements.
-* The income from advertising is paid to you.
-* The phrase "Made by Bingle Proxy" is removed. 
+* The income from advertising is paid to you (paypal or crypto).
+* The phrase "Made by Bingle Proxy" is removed.
+* Unlimited support and instant execution.
 
