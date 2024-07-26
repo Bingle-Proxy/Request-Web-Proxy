@@ -16,3 +16,10 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 
 6- Background Wallpaper:
 
+
+# Tip
+
+* The site is completely Free.
+* The website does not include a configuration panel and all changes are applied in this repository.
+* Complete all the mentioned items.
+* 
