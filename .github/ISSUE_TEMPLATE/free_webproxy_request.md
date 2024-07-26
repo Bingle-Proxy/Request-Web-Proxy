@@ -1,9 +1,9 @@
 ---
-name: Free Web Proxy
-about: Web Proxy By Bingle Proxy
+name: Request Create Free Web Proxy
+about: Bingle Proxy Subset - Completely Free
 title: 'Request Create Free Web Proxy'
 labels: 'Free Web Proxy,Proxy,Bingle Proxy,Web Proxy,VPN'
-assignees: ''
+assignees: 'Bingle-Proxy'
 ---
 
 ### Creating a Free high-speed Web Proxy 
