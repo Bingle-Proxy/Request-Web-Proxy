@@ -4,7 +4,7 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 
 ![info](https://github.com/user-attachments/assets/bb19436f-134f-4ab1-a1ea-6f59098a36a5)
 
-1- Sub Domain Name: 
+1- Sub Domain Name: Any words - maximum 25 characters - except config, hub, millionux, fast, player, app, proxyduke, v2ray
 
 2- Display Name:
 
