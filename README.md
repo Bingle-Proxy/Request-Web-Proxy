@@ -16,7 +16,7 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 
 6- Background Wallpaper:
 
-![pmofauxbuttons_submitrequest](https://github.com/user-attachments/assets/a6ed777e-4cc4-47e0-bf5f-474627902e99)([https://link-to-your-URL/](https://translate.google.com/?sl=fa&tl=en&op=translate))
+
 
 # Tip
 
