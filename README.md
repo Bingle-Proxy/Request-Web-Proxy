@@ -17,7 +17,7 @@ Creating a free high-speed web proxy with your name and information **(yourname)
 6- **Background Wallpaper:** url - webp, svg - height: 540 px width: 960 px
 
 
-# Request to Website making
+# Request to Website making (FREE)
 
 [![image](https://github.com/user-attachments/assets/7ca07b1b-9946-4747-9553-10472ea9c9d4)](https://github.com/Bingle-Proxy/Request-Web-Proxy/issues/new?assignees=Bingle-Proxy&labels=Free+Web+Proxy&projects=&template=free_webproxy_request.md&title=Request+Create+Free+Web+Proxy)
 
@@ -38,4 +38,6 @@ Creating a free high-speed web proxy with your name and information **(yourname)
 * The income from advertising is paid to you (paypal or crypto).
 * The phrase "Made by Bingle Proxy" is removed.
 * Unlimited support and instant execution.
+
+VIP Price: 10 Tether (USDT) yearly. https://t.me/bingle_support
 
