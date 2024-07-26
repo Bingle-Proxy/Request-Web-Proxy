@@ -16,7 +16,7 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 
 6- Background Wallpaper:
 
-[![image](https://github.com/user-attachments/assets/f3ed7a46-919b-4e71-9eab-52e1a6e5710e)]([Your Link Address](https://github.com/Bingle-Proxy/Request-Web-Proxy/issues/new?assignees=Bingle-Proxy&labels=Free+Web+Proxy&projects=&template=free_webproxy_request.md&title=Request+Create+Free+Web+Proxy))
+[![image](https://github.com/user-attachments/assets/f3ed7a46-919b-4e71-9eab-52e1a6e5710e)]([https://github.com/Bingle-Proxy/Request-Web-Proxy/issues/new?assignees=Bingle-Proxy&labels=Free+Web+Proxy&projects=&template=free_webproxy_request.md&title=Request+Create+Free+Web+Proxy])
 
 # Tip
 
