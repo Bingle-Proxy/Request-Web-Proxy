@@ -1,20 +1,32 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Free Web Proxy
+about: Web Proxy By Bingle Proxy
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Creating a Free high-speed Web Proxy 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+We use automated scripts to approve requests. Please make sure your GitHub account meets the following requirements (all are required):
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+- [ ] I have starred this repository.
+- [ ] I confirm that I don't have any problem with ADS enabled.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+All steps of creating a web proxy and making changes are done on this repository.
+
+**Your Account Details (Creating a Free high-speed Web Proxy):**
+
+Please fill out the following information; otherwise, your request will not be processed:
+
+1- Sub Domain Name:
+
+2- Display Name:
+
+3- Welcome Text:
+
+4- Your ADS (html):
+
+5- Main Text:
+
+6- Background Wallpaper (url):
