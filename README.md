@@ -7,7 +7,12 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 1- Sub Domain Name: 
 
 2- Display Name:
+
 3- Welcome Text:
+
 4- Your ADS:
+
 5- Main Text:
+
 6- Background Wallpaper:
+
