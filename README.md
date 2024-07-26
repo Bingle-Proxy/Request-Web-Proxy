@@ -20,6 +20,9 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 # Tip
 
 * The site is completely Free.
+* The duration of site creation is less than 72 hours.
 * The website does not include a configuration panel and all changes are applied in this repository.
 * Complete all the mentioned items.
+* Ads are active on the site.
+* An Android application will be created from your website upon request.
 * 
