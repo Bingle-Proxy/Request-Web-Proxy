@@ -1,8 +1,8 @@
 ---
 name: Free Web Proxy
 about: Web Proxy By Bingle Proxy
-title: ''
-labels: ''
+title: 'Request Create Free Web Proxy'
+labels: 'Free Web Proxy,Proxy,Bingle Proxy,Web Proxy,VPN'
 assignees: ''
 ---
 
