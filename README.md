@@ -29,6 +29,11 @@ Creating a free high-speed web proxy with your name and information **(yourname)
 * The website does not include a configuration panel and all changes are applied in this repository.
 * Complete all the mentioned items.
 * Ads are active on the site.
+
+  
+# VIP
+
 * An Android application will be created from your website upon request.
 * If requested, you can change the favicon and the color of the site elements.
+* The income from advertising is paid to you.
 
