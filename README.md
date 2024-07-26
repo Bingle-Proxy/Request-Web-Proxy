@@ -25,4 +25,5 @@ Creating a free high-speed web proxy with your name and information *(yourname).
 * Complete all the mentioned items.
 * Ads are active on the site.
 * An Android application will be created from your website upon request.
-* 
+* If requested, you can change the favicon and the color of the site elements.
+
