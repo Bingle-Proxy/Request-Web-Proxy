@@ -16,8 +16,8 @@ assignees: 'Bingle-Proxy'
 
 3- Welcome Text:
 
-4- Your ADS (html):
+4- Your ADS (HTML):
 
 5- Main Text:
 
-6- Background Wallpaper (url):
+6- Background Wallpaper (URL):
