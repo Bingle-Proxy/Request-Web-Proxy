@@ -8,7 +8,7 @@ assignees: 'Bingle-Proxy'
 
 ### Creating a Free high-speed Web Proxy 
 
-**Your Account Details (Creating a Free high-speed Web Proxy):**
+**Your Account Details:**
 
 1- Sub Domain Name: 
 
