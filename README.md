@@ -27,7 +27,7 @@ or
 # Tip
 
 * The site is completely Free.
-* The duration of site creation is less than 48 hours.
+* The duration of site creation is less than 24 hours.
 * The website does not include a configuration panel and all changes are applied in this repository.
 * Complete all the mentioned items.
 * Ads are active on the site.
