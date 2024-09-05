@@ -24,7 +24,7 @@ or
 **[GitHub](https://github.com/Bingle-Proxy/Request-Web-Proxy/issues/new?assignees=Bingle-Proxy&labels=Free+Web+Proxy&projects=&template=free_webproxy_request.md&title=Request+Create+Free+Web+Proxy)**
 
 
-# List of created websites
+# List of Created Websites
 
 **[Show](https://google-proxy.us.kg/register/web-proxy/)**
 
