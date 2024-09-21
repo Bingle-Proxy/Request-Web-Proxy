@@ -20,8 +20,6 @@ Creating a free high-speed web proxy **Website** with your name and information 
 # Request to Website making (FREE)
 
 **[Website](https://google-proxy.us.kg/register/web-proxy/)**
-or
-**[GitHub](https://github.com/Bingle-Proxy/Request-Web-Proxy/issues/new?assignees=Bingle-Proxy&labels=Free+Web+Proxy&projects=&template=free_webproxy_request.md&title=Request+Create+Free+Web+Proxy)**
 
 
 # List of Created Websites
